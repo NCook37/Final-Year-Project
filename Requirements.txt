@@ -1,0 +1,14 @@
+The following libraries are required to run the code:
+- numpy
+- cv2
+- pathlib
+- screeninfo
+- dlib
+- matplotlib
+- torch
+- torch.optim as optim
+- torch.nn
+- pandas
+- pickle
+- skimage
+- skimage.transform

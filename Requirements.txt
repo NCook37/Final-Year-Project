@@ -1,4 +1,5 @@
-The following libraries are required to run the code:
+The following libraries/packages are required to run the code:
+- python 3.12.3
 - numpy
 - cv2
 - pathlib
@@ -6,9 +7,6 @@ The following libraries are required to run the code:
 - dlib
 - matplotlib
 - torch
-- torch.optim as optim
-- torch.nn
 - pandas
 - pickle
 - skimage
-- skimage.transform
